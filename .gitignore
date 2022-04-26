@@ -153,5 +153,4 @@ cython_debug/
 helper/
 lib/scripts/notebooks/helper/
 terraform/
-# ignore python env folder
-ptich/
+
